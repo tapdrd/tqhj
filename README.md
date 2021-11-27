@@ -1,3 +1,5 @@
+![image](./index.png)
+
 // 开源
 
 天启幻境：https://gitee.com/tapdrd/apocalypse
@@ -6,7 +8,7 @@
 
 源码版本:	1.2.3
 
-更新时间：	2021/07/31
+更新时间：	2021/11/27
 
 目前支持框架：小栗子 / 先驱 / QQMini / ISky
 
