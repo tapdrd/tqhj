@@ -2,8 +2,6 @@
 
 // 开源
 
-天启幻境：https://gitee.com/tapdrd/apocalypse
-
 源码时间:	2017/02/18
 
 源码版本:	1.2.3
